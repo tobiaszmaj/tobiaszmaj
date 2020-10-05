@@ -1,6 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Tobiasz</h1>
 <h2 align="center">A passionate Junior Front End Developer</h2>
-<img src="https://cdn.dribbble.com/users/662463/screenshots/3281817/rolling_chair_reel_monchomasse.gif" width="8000" height="450"/>
 
 - 🌱 I’m currently learning Node.js, MongoDB, Firebase 
 - ⚡ Fun fact: My second hobby (after programming of course!) is photography 📸 
