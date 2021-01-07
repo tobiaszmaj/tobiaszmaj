@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Tobiasz</h1>
 <h2 align="center">A passionate Junior Front End Developer</h2>
 
-- 🌱 I’m currently learning Node.js, MongoDB, Firebase 
+- 🌱 I’m currently learning Testing with Mocha
 - ⚡ Fun fact: My second hobby (after programming of course!) is photography 📸 
 
 
