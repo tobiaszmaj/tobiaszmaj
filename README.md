@@ -1,9 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Tobiasz</h1>
-<h3 align="center">A passionate Junior Frontend Developer</h3>
-
-- 🌱 I’m currently learning **Vue.js**
-
-- ⚡ Fun fact: **My second hobby (after programming of course!) is photography. 📸**
+<h3 align="center">A passionate Frontend Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
